@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924653599335",
+    "project_id": "yasashii-653ea",
+    "storage_bucket": "yasashii-653ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924653599335:android:4ec374c9a04f05b1c8b2c2",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FirebaseAuthTutorialStarterProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924653599335-0itr6q2lbja01c8234irt685ddmjcdiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOTKyA5bb3dIne0sAUGxc6fvVjbt9lvw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924653599335-0itr6q2lbja01c8234irt685ddmjcdiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
